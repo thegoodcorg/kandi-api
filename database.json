@@ -1,0 +1,344 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Karmen",
+            "last_name": "Audritt",
+            "isStaff": false,
+            "email": "kaudritt0@so-net.ne.jp"
+        },
+        {
+            "id": 2,
+            "first_name": "Mollie",
+            "last_name": "Faulds",
+            "isStaff": false,
+            "email": "mfaulds1@blogger.com"
+        },
+        {
+            "id": 3,
+            "first_name": "Maynord",
+            "last_name": "Patters",
+            "isStaff": false,
+            "email": "mpatters2@qq.com"
+        },
+        {
+            "id": 4,
+            "first_name": "Scotti",
+            "last_name": "Madeley",
+            "isStaff": false,
+            "email": "smadeley3@cdc.gov"
+        },
+        {
+            "id": 5,
+            "first_name": "Quincy",
+            "last_name": "Bruckstein",
+            "isStaff": false,
+            "email": "qbruckstein4@miitbeian.gov.cn"
+        },
+        {
+            "id": 6,
+            "first_name": "Bride",
+            "last_name": "McArthur",
+            "isStaff": false,
+            "email": "bmcarthur5@shop-pro.jp"
+        },
+        {
+            "id": 7,
+            "first_name": "Aurel",
+            "last_name": "Cornew",
+            "isStaff": true,
+            "email": "acornew6@about.me"
+        },
+        {
+            "id": 8,
+            "first_name": "Catherina",
+            "last_name": "Joinson",
+            "isStaff": false,
+            "email": "cjoinson7@rediff.com"
+        },
+        {
+            "id": 9,
+            "first_name": "Orelee",
+            "last_name": "Human",
+            "isStaff": false,
+            "email": "ohuman8@nifty.com"
+        },
+        {
+            "id": 10,
+            "first_name": "Torey",
+            "last_name": "Flory",
+            "isStaff": true,
+            "email": "tflory9@stumbleupon.com"
+        },
+        {
+            "id": 11,
+            "first_name": "Eveleen",
+            "last_name": "Cardoso",
+            "isStaff": true,
+            "email": "ecardosoa@cornell.edu"
+        },
+        {
+            "id": 12,
+            "first_name": "Zollie",
+            "last_name": "Kendall",
+            "isStaff": true,
+            "email": "zkendallb@posterous.com"
+        },
+        {
+            "id": 13,
+            "first_name": "Brooke",
+            "last_name": "Vaudre",
+            "isStaff": true,
+            "email": "bvaudrec@va.gov"
+        },
+        {
+            "id": 14,
+            "first_name": "Isak",
+            "last_name": "Hayman",
+            "isStaff": true,
+            "email": "ihaymand@sphinn.com"
+        },
+        {
+            "id": 15,
+            "first_name": "Tessie",
+            "last_name": "Minkin",
+            "isStaff": false,
+            "email": "tminkine@amazon.de"
+        },
+        {
+            "id": 16,
+            "first_name": "Evelyn",
+            "last_name": "Kingscote",
+            "isStaff": false,
+            "email": "ekingscotef@oracle.com"
+        },
+        {
+            "id": 17,
+            "first_name": "Everett",
+            "last_name": "Nisuis",
+            "isStaff": false,
+            "email": "enisuisg@netlog.com"
+        },
+        {
+            "id": 18,
+            "first_name": "Roobbie",
+            "last_name": "Churchard",
+            "isStaff": false,
+            "email": "rchurchardh@qq.com"
+        },
+        {
+            "id": 19,
+            "first_name": "Dimitri",
+            "last_name": "Braker",
+            "isStaff": true,
+            "email": "dbrakeri@mlb.com"
+        },
+        {
+            "id": 20,
+            "first_name": "Waring",
+            "last_name": "Marfield",
+            "isStaff": false,
+            "email": "wmarfieldj@msu.edu"
+        },
+        {
+            "id": 21,
+            "first_name": "Garrard",
+            "last_name": "Pulver",
+            "isStaff": true,
+            "email": "gpulverk@npr.org"
+        },
+        {
+            "id": 22,
+            "first_name": "Mommy",
+            "last_name": "Tolumello",
+            "isStaff": true,
+            "email": "mtolumellol@booking.com"
+        },
+        {
+            "id": 23,
+            "first_name": "Jasen",
+            "last_name": "Garbett",
+            "isStaff": true,
+            "email": "jgarbettm@pen.io"
+        },
+        {
+            "id": 24,
+            "first_name": "Kalie",
+            "last_name": "McLaine",
+            "isStaff": false,
+            "email": "kmclainen@usa.gov"
+        },
+        {
+            "id": 25,
+            "first_name": "Fran",
+            "last_name": "Hadwick",
+            "isStaff": false,
+            "email": "fhadwicko@oaic.gov.au"
+        }
+    ],
+    "locations": [
+        {
+            "storeNumber": 1,
+            "address": "117 Kensington Hill",
+            "squareFootage": 5188
+        },
+        {
+            "storeNumber": 2,
+            "address": "5500 Ridgeway Park",
+            "squareFootage": 7460
+        },
+        {
+            "storeNumber": 3,
+            "address": "271 Novick Drive",
+            "squareFootage": 8557
+        },
+        {
+            "storeNumber": 4,
+            "address": "297 Westport Trail",
+            "squareFootage": 2936
+        },
+        {
+            "storeNumber": 5,
+            "address": "66 Forster Circle",
+            "squareFootage": 5699
+        },
+        {
+            "storeNumber": 6,
+            "address": "551 Goodland Place",
+            "squareFootage": 9220
+        },
+        {
+            "storeNumber": 7,
+            "address": "0169 Hoffman Parkway",
+            "squareFootage": 4400
+        },
+        {
+            "storeNumber": 8,
+            "address": "285 Holy Cross Place",
+            "squareFootage": 2541
+        },
+        {
+            "storeNumber": 9,
+            "address": "09 Elmside Trail",
+            "squareFootage": 1303
+        },
+        {
+            "storeNumber": 10,
+            "address": "7523 Towne Parkway",
+            "squareFootage": 8490
+        },
+        {
+            "storeNumber": 11,
+            "address": "6457 Dryden Pass",
+            "squareFootage": 7819
+        },
+        {
+            "storeNumber": 12,
+            "address": "803 Tennyson Park",
+            "squareFootage": 676
+        },
+        {
+            "storeNumber": 13,
+            "address": "62116 Esch Circle",
+            "squareFootage": 8763
+        },
+        {
+            "storeNumber": 14,
+            "address": "5889 Kensington Crossing",
+            "squareFootage": 3947
+        },
+        {
+            "storeNumber": 15,
+            "address": "5 La Follette Park",
+            "squareFootage": 1981
+        }
+    ],
+    "productTypes": [
+        {
+            "id": 1,
+            "category": "Chocolate"
+        },
+        {
+            "id": 2,
+            "category": "Sweet"
+        },
+        {
+            "id": 3,
+            "category": "Sour"
+        },
+        {
+            "id": 4,
+            "category": "Ice Cream"
+        },
+        {
+            "id": 5,
+            "category": "Drink"
+        },
+        {
+            "id": 6,
+            "category": "Gum"
+        }
+    ],
+    "products": [
+        {
+            "id":1,
+            "name": "Candy Corn",
+            "price": 3.50,
+            "productTypeId": 2
+        },
+        {
+            "id":2,
+            "name": "Big League Chew",
+            "price": 2.99,
+            "productTypeId": 6
+        },
+        {
+            "id":3,
+            "name": "Milky Way",
+            "price": 3.99,
+            "productTypeId": 1
+        },
+        {
+            "id":4,
+            "name": "Slurm",
+            "price": 1.99,
+            "productTypeId": 5
+        },
+        {
+            "id":5,
+            "name": "Creamy Caramel Custard",
+            "price": 7.59,
+            "productTypeId": 4
+        },
+        {
+            "id":6,
+            "name": "Warheads 100 Count",
+            "price": 6.49,
+            "productTypeId": 3
+        },
+        {
+            "id":7,
+            "name": "Hershey bar",
+            "price": 1.99,
+            "productTypeId": 1
+        },
+        {
+            "id":8,
+            "name": "Sweet Tarts",
+            "price": 0.99,
+            "productTypeId": 2
+        },
+        {
+            "id":9,
+            "name": "Booty Sweat",
+            "price": 5.99,
+            "productTypeId": 5
+        },
+        {
+            "id":10,
+            "name": "Shock Tarts",
+            "price": 2.99,
+            "productTypeId": 3
+        }
+    ]
+}
